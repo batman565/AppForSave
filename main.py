@@ -5,7 +5,7 @@ from tqdm import tqdm
 import time
 
 
-token = ''
+token = 'Здесь должен быть ваш токен ВК'
 
 
 class VK:
